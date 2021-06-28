@@ -1,4 +1,6 @@
-whenever you make change in file follow this code: by command - notepad filename.txt
+byeeeeeeeeeeeeeeeeeeeeeeeeee
+whenever you make change in file follow this code: 
+by command - notepad filename.txt
 git add .
 git commit -m 'msg to commit'
 git push origin master
